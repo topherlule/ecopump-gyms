@@ -1,0 +1,13 @@
+.btn-brown {
+  background-color: #c7ac9a;
+  padding: 15px 20px;
+  color: white;
+  border-radius: 5px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.btn-brown a:hover {
+  opacity: 0.6;
+}
